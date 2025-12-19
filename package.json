@@ -1,0 +1,30 @@
+{
+  "name": "catra1204.git.io",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "homepage": "https://github.com/Catra12/Catra1204.git.io#readme",
+  "bugs": {
+    "url": "https://github.com/Catra12/Catra1204.git.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Catra12/Catra1204.git.io.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "autoprefixer": "^10.4.23",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "vite": "^7.3.0"
+  }
+}
